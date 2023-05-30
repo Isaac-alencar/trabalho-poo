@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="jScrollPane1" min="-2" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="botao_calc_7" alignment="1" min="-2" pref="72" max="-2" attributes="0"/>
+                          <Component id="botao_calc_4" alignment="1" min="-2" pref="72" max="-2" attributes="0"/>
+                          <Component id="botao_calc_1" alignment="1" min="-2" pref="72" max="-2" attributes="0"/>
+                          <Component id="botao_calc_0" alignment="1" min="-2" pref="72" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="botao_calc_5" alignment="1" min="-2" pref="72" max="-2" attributes="0"/>
+                          <Component id="botao_calc_8" alignment="1" min="-2" pref="72" max="-2" attributes="0"/>
+                          <Component id="botao_calc_2" alignment="1" min="-2" pref="72" max="-2" attributes="0"/>
+                          <Component id="botao_calc_limpar" alignment="1" min="-2" pref="72" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="botao_calc_6" alignment="1" min="-2" pref="72" max="-2" attributes="0"/>
+                          <Component id="botao_calc_9" alignment="1" min="-2" pref="72" max="-2" attributes="0"/>
+                          <Component id="botao_calc_3" alignment="1" min="-2" pref="72" max="-2" attributes="0"/>
+                          <Component id="botao_calc_igual" alignment="1" min="-2" pref="72" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="botao_calc_div" alignment="1" min="-2" pref="72" max="-2" attributes="0"/>
+                          <Component id="botao_calc_multi" alignment="1" min="-2" pref="72" max="-2" attributes="0"/>
+                          <Component id="botao_calc_sub" alignment="1" min="-2" pref="72" max="-2" attributes="0"/>
+                          <Component id="botao_calc_soma" alignment="1" min="-2" pref="72" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" min="-2" pref="124" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="botao_calc_9" alignment="3" min="-2" pref="72" max="-2" attributes="0"/>
+                  <Component id="botao_calc_div" alignment="3" min="-2" pref="72" max="-2" attributes="0"/>
+                  <Component id="botao_calc_8" alignment="3" min="-2" pref="72" max="-2" attributes="0"/>
+                  <Component id="botao_calc_7" alignment="3" min="-2" pref="72" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="botao_calc_6" alignment="3" min="-2" pref="72" max="-2" attributes="0"/>
+                  <Component id="botao_calc_multi" alignment="3" min="-2" pref="72" max="-2" attributes="0"/>
+                  <Component id="botao_calc_5" alignment="3" min="-2" pref="72" max="-2" attributes="0"/>
+                  <Component id="botao_calc_4" alignment="3" min="-2" pref="72" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="botao_calc_3" alignment="3" min="-2" pref="72" max="-2" attributes="0"/>
+                  <Component id="botao_calc_sub" alignment="3" min="-2" pref="72" max="-2" attributes="0"/>
+                  <Component id="botao_calc_2" alignment="3" min="-2" pref="72" max="-2" attributes="0"/>
+                  <Component id="botao_calc_1" alignment="3" min="-2" pref="72" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="botao_calc_igual" alignment="3" min="-2" pref="72" max="-2" attributes="0"/>
+                  <Component id="botao_calc_soma" alignment="3" min="-2" pref="72" max="-2" attributes="0"/>
+                  <Component id="botao_calc_limpar" alignment="3" min="-2" pref="72" max="-2" attributes="0"/>
+                  <Component id="botao_calc_0" alignment="3" min="-2" pref="72" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="32" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="calc_painel">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="df" green="df" id="Control" palette="2" red="df" type="palette"/>
+            </Property>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.modules.form.editors2.FontEditor">
+              <FontInfo relative="true">
+                <Font component="calc_painel" property="font" relativeSize="true" size="3"/>
+              </FontInfo>
+            </Property>
+            <Property name="rows" type="int" value="5"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="botao_calc_7">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Roboto Condensed," size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="7"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="botao_calc_7MouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="botao_calc_4">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Roboto Condensed," size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="4"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="botao_calc_4MouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="botao_calc_1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Roboto Condensed," size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="1"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="botao_calc_1MouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="botao_calc_8">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Roboto Condensed," size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="8"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="botao_calc_8MouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="botao_calc_5">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Roboto Condensed," size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="5"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="botao_calc_5MouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="botao_calc_2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Roboto Condensed," size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="2"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="botao_calc_2MouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="botao_calc_9">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Roboto Condensed," size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="9"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="botao_calc_9MouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="botao_calc_6">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Roboto Condensed," size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="6"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="botao_calc_6MouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="botao_calc_3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Roboto Condensed," size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="3"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="botao_calc_3MouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="botao_calc_div">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Roboto Condensed," size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="/"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="botao_calc_divMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="botao_calc_multi">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Roboto Condensed," size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="X"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="botao_calc_multiMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="botao_calc_sub">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Roboto Condensed," size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="-"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="botao_calc_subMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="botao_calc_soma">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Roboto Condensed," size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="+"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="botao_calc_somaMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="botao_calc_0">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Roboto Condensed," size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="botao_calc_0MouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="botao_calc_limpar">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Roboto Condensed," size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="CE"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="botao_calc_limparMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="botao_calc_igual">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Roboto Condensed," size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="="/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="botao_calc_igualMouseClicked"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
